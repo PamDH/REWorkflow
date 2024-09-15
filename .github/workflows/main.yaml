@@ -15,9 +15,9 @@ jobs:
         run: npm cache clean --force
       - name: Install dependencies
         run: npm install
-        working-directory: REWorkflow/automation
+        working-directory: ./automation
       - name: Cypress run
         uses: cypress-io/github-action@v6.6.1
         with:
           browser: chrome
-          working-directory: REWorkflow/automation
+          working-directory: ./automation
