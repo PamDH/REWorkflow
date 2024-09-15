@@ -1,0 +1,7 @@
+{
+    "validationFailed": "Input data validation failed",
+    "emailRequired": "Email is required",
+    "passwordRequired": "Password is required",
+    "firstNameRequired": "First name required",
+    "lastNameRequired": "Last name required"
+}

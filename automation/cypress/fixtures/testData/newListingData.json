@@ -1,0 +1,16 @@
+{
+    "title": "Beautiful View",
+    "description": "One-of-a-kind palatial home with spacious lot and magnificent view",
+    "city": "Chicago",
+    "address": "222 W Randolph Street",
+    "zipCode": 30304,
+    "state": "Illinois",
+    "price": "700000",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "garage": 2,
+    "sqft": 3900,
+    "lotSize": 6500,
+    "image": "testData/Lake House.jpeg",
+    "isPublished": true
+}

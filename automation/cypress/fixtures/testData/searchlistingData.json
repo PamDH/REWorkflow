@@ -1,0 +1,16 @@
+{
+    "title": "",
+    "description": "Home in a quaint town named Vanity Fair, where, all year round, such merchandise is bought and sold as houses, lands, trades, places, honors, preferments, titles, countries, kingdoms, lusts, pleasures, and delights of all sorts.",
+    "city": "Vanity Fair",
+    "address": "111 Holly Way",
+    "zipCode": 70002,
+    "state": "GA",
+    "price": 600000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "garage": 0,
+    "sqft": 2000,
+    "lotSize": 5600,
+    "image": "testData/Tudor Home.jpeg",
+    "isPublished": true
+}
